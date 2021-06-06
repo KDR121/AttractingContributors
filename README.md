@@ -23,8 +23,8 @@ Please write them down below :D
 
 # List of Yuru-chara(Mascot)
 1. Sento-kun (example)
-2. Minamo
-3.
+2. Minamo !
+3. 
 4.
 5.
 6.
