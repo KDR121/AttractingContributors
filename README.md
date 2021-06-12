@@ -29,4 +29,4 @@ I want to know the name of your favorite Doraemon's Secret Tools. I'm looking fo
 7. Jinsei-Yarinaoshi-Ki
 8. Time machine
 9. Honyaku-konnyaku
-10.
+10. Portable-Parliament（ポータブル国会）
